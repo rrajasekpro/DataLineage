@@ -4,5 +4,5 @@
 
 azure-data-tables
 azure-functions==1.7.2
-azure-identity==1.6.1
+azure-identity==1.16.1
 pyapacheatlas==0.12
